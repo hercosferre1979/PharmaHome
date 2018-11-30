@@ -1,4 +1,4 @@
-package com.rain.day.pharma.clientpharma;
+package com.pharma.rain.day.pharma.clientpharma;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;

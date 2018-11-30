@@ -1,4 +1,4 @@
-package com.rain.day.pharma.clientpharma;
+package com.pharma.rain.day.pharma.clientpharma;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
